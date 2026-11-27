@@ -37,9 +37,9 @@ var lyr_SREDFINALFINAL_2 = new ol.layer.Vector({
                 declutter: false,
                 source:jsonSource_SREDFINALFINAL_2, 
                 style: style_SREDFINALFINAL_2,
-                popuplayertitle: 'S-RED-FINAL-FINAL',
+                popuplayertitle: 'RED-VIAL',
                 interactive: true,
-                title: '<img src="styles/legend/SREDFINALFINAL_2.png" /> S-RED-FINAL-FINAL'
+                title: '<img src="styles/legend/SREDFINALFINAL_2.png" /> RED-VIAL'
             });
 var format_MASASDEAGUA_3 = new ol.format.GeoJSON();
 var features_MASASDEAGUA_3 = format_MASASDEAGUA_3.readFeatures(json_MASASDEAGUA_3, 
